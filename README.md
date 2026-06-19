@@ -1,7 +1,7 @@
-# Kurukunda-Sashi-Preetham
+#hi I am Sashi Preetham
 
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics & Data Engineering portfolio projects<br><br>👯 I’m looking to collaborate on Data Analytics, SQL, Power BI, and Python projects<br><br>🤝 I’m looking for help with AWS Cloud, Data Engineering, and Advanced SQL concepts<br><br>🌱 I’m currently learning SQL, AWS, PostgreSQL, Power BI, Git, and Data Warehousing<br><br>💬 Ask me about Python, SQL, Power BI, Data Analytics, and GitHub<br><br>⚡ Fun fact: I built my first end-to-end Data Analytics project after spending 2 days fighting PostgreSQL, Jupyter, GitHub, Power BI, and a laptop that almost became a heater 🔥😂<br>
+🔭 I’m currently working on Data Analytics & Data Engineering portfolio projects<br><br>👯 I’m looking to collaborate on Data Analytics, SQL, Power BI, and Python projects<br><br>🤝 I’m looking for help with AWS Cloud, Data Engineering, and Advanced SQL concepts<br><br>🌱 I’m currently learning SQL, AWS, PostgreSQL, Power BI, Git, and Data Warehousing<br><br>💬 Ask me about Python, SQL, Power BI, Data Analytics, and GitHub<br><br>⚡ Fun fact: \⚡ Fun fact: I enjoy building end-to-end data projects and learning new tools through hands-on practice. 🔥<br>
 
 
 ## 🌐 Socials:
