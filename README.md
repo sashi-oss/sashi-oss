@@ -13,15 +13,15 @@
 <a href="https://linkedin.com/in/sashi-preetham">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sashi-oss">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0ea5e9"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1e3a5f"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0284c7"/>
+<img src="https://komarev.com/ghpvc/?username=sashi-oss&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/sashi-oss?style=for-the-badge&color=1e3a5f"/>
+<img src="https://img.shields.io/github/stars/sashi-oss?style=for-the-badge&color=0284c7"/>
 </p>
 
 <p align="center">
@@ -36,22 +36,22 @@
 
 Aspiring **Data Engineer & Data Analyst** passionate about building end-to-end data pipelines, warehouse architectures, and analytics solutions through hands-on projects.
 
-| Profile     | Details                                                      |
-| ----------- | ------------------------------------------------------------ |
-| 🎓 Focus     | Data Analytics & Data Engineering                            |
-| 🛠️ Core Stack | SQL, PostgreSQL, Python, Power BI                            |
-| 🌱 Learning  | AWS, Advanced SQL, Data Warehousing, Git                     |
-| 🔭 Working On | Data Analytics & Data Engineering Portfolio Projects         |
-| 🤝 Open To   | Collaborating on SQL, Power BI, Python & Analytics Projects  |
-| ⚡ Fun Fact  | I enjoy building end-to-end data projects and learning new tools through hands-on practice |
-| 🎯 Goal      | Data Engineer / Data Analyst Role                            |
+| Profile      | Details                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| 🎓 Focus      | Data Analytics & Data Engineering                                                           |
+| 🛠️ Core Stack | SQL, PostgreSQL, Python, Power BI                                                           |
+| 🌱 Learning   | AWS, Advanced SQL, Data Warehousing, Git                                                    |
+| 🔭 Working On | Data Analytics & Data Engineering Portfolio Projects                                        |
+| 🤝 Open To    | Collaborating on SQL, Power BI, Python & Analytics Projects                                 |
+| ⚡ Fun Fact   | I enjoy building end-to-end data projects and learning new tools through hands-on practice  |
+| 🎯 Goal       | Data Engineer / Data Analyst Role                                                           |
 
 ---
 
 # 🛠️ Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,git,github,vscode,linux,powerbi&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,git,github,vscode,linux&perline=8"/>
 </p>
 
 <p align="center">
@@ -71,12 +71,12 @@ Aspiring **Data Engineer & Data Analyst** passionate about building end-to-end d
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sashi-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashi-oss&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sashi-oss&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@ Aspiring **Data Engineer & Data Analyst** passionate about building end-to-end d
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sashi-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ Aspiring **Data Engineer & Data Analyst** passionate about building end-to-end d
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sashi-oss&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ Python for Data Analytics
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sashi-oss/sashi-oss/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
