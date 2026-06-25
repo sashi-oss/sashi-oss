@@ -1,20 +1,129 @@
-#hi I am Sashi Preetham
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on Data Analytics & Data Engineering portfolio projects<br><br>👯 I’m looking to collaborate on Data Analytics, SQL, Power BI, and Python projects<br><br>🤝 I’m looking for help with AWS Cloud, Data Engineering, and Advanced SQL concepts<br><br>🌱 I’m currently learning SQL, AWS, PostgreSQL, Power BI, Git, and Data Warehousing<br><br>💬 Ask me about Python, SQL, Power BI, Data Analytics, and GitHub<br><br>⚡ Fun fact: \⚡ Fun fact: I enjoy building end-to-end data projects and learning new tools through hands-on practice. 🔥<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:0f172a,50:1e3a5f,100:0ea5e9&text=Kurukunda%20Sashi%20Preetham&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20SQL%20Developer&descAlignY=55&descSize=18"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Engineer;SQL+%7C+PostgreSQL+%7C+Power+BI;Python+%7C+Data+Warehousing+%7C+ETL+Pipelines;Medallion+Architecture+%7C+AWS+Learner;Building+End-to-End+Data+Projects"/>
+</p>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sashi-oss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sashi preetham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sashipreetham.02@gmail.com) 
+<p align="center">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sashi-preetham">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sashi-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sashi-oss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sashi-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1e3a5f"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0284c7"/>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sashi-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👤 About Me
+
+Aspiring **Data Engineer & Data Analyst** passionate about building end-to-end data pipelines, warehouse architectures, and analytics solutions through hands-on projects.
+
+| Profile     | Details                                                      |
+| ----------- | ------------------------------------------------------------ |
+| 🎓 Focus     | Data Analytics & Data Engineering                            |
+| 🛠️ Core Stack | SQL, PostgreSQL, Python, Power BI                            |
+| 🌱 Learning  | AWS, Advanced SQL, Data Warehousing, Git                     |
+| 🔭 Working On | Data Analytics & Data Engineering Portfolio Projects         |
+| 🤝 Open To   | Collaborating on SQL, Power BI, Python & Analytics Projects  |
+| ⚡ Fun Fact  | I enjoy building end-to-end data projects and learning new tools through hands-on practice |
+| 🎯 Goal      | Data Engineer / Data Analyst Role                            |
+
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,git,github,vscode,linux,powerbi&perline=9"/>
+</p>
+
+<p align="center">
+<b>SQL</b> • <b>PostgreSQL</b> • <b>Python</b> • <b>Power BI</b> • <b>Git</b> • <b>GitHub</b>
+</p>
+
+<p align="center">
+<b>ETL Pipelines</b> • <b>Data Warehousing</b> • <b>Medallion Architecture</b> • <b>Data Modeling</b>
+</p>
+
+<p align="center">
+<b>Bronze → Silver → Gold</b> • <b>Star Schema</b> • <b>Window Functions</b> • <b>Data Quality</b>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Focus Areas
+
+<div align="center">
+
+Data Engineering & ETL Pipeline Development<br>
+SQL & Advanced Query Optimization<br>
+Data Warehouse Architecture (Medallion)<br>
+Business Intelligence & Power BI Dashboards<br>
+Cloud Data Engineering with AWS<br>
+Python for Data Analytics
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<div align="center">
+
+*"Turning raw data into reliable insights — one pipeline at a time."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e3a5f,100:0ea5e9"/>
